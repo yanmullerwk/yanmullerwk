@@ -7,9 +7,9 @@
 
 ## Sobre Mim
 
-- 🧐 Me chamo Yan Müller, atualmente estou estudando analyse e desenvolvimento de sistemas na UNISINOS-universidade do vale do rio dos sinos;
+- 🧐 Me chamo Yan Müller, atualmente estou estudando analise e desenvolvimento de sistemas na UNISINOS-universidade do vale do rio dos sinos;
 - 👾 Sempre em busca de novas tecnologias e ensinamentos para ampliar minhas habilidades no desenvolvimento software.
-
+  
 ## Minhas skills
 <div>
   
