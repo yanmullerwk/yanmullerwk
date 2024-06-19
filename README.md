@@ -1,8 +1,8 @@
 # Hey, Sup? Yan here :)
 
 <div>
-  <img height=180px src="https://github-readme-stats.vercel.app/api?username=yanmullerwk&show_icons=true&theme=gruvbox&include_all_commits=true">
-  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmullerwk&layout=compact&theme=gruvbox&langs_count=10">
+  <img height=180px src="https://github-readme-stats.vercel.app/api?username=yanmullerwk&show_icons=true&theme=noctis_minimus&include_all_commits=true">
+  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmullerwk&layout=compact&theme=noctis_minimus&langs_count=10">
 </div>
 
 ## Sobre Mim
