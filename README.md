@@ -9,7 +9,7 @@
 
 - 🧐 Me chamo Yan Müller, sou Gaucho e atualmente estou estudando analise e desenvolvimento de sistemas na UNISINOS-universidade do vale do rio dos sinos;
 - 👾 Sempre em busca de novas tecnologias e ensinamentos para ampliar minhas habilidades no desenvolvimento software.
-- 😃 Valorizo a harmonia no trabalho em equipe e tenho um olhar crítico e minucioso, sempre focado em encontrar soluções eficazes para problemas
+- 😃sempre focado em encontrar soluções eficazes para problemas
 
 ## ✨Minhas skills
 <div>
