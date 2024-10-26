@@ -1,9 +1,9 @@
 # Hey, Sup? Yan aqui :) <br/> *Desenvolvedor Full-stack*
 
-<div>
-  <img height=180px src="https://github-readme-stats.vercel.app/api?username=yanmullerwk&show_icons=true&theme=noctis_minimus&include_all_commits=true">
-  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmullerwk&layout=compact&theme=noctis_minimus&langs_count=10">
-</div>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanmullerwk)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanmullerwk)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 😯Sobre Mim
 
