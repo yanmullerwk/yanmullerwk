@@ -1,9 +1,11 @@
 # Hey, Sup? Yan aqui :) <br/> *Desenvolvedor Full-stack*
 
+<div style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yanmullerwk&show_icons=true&theme=shades-of-purple&locale=pt-br&hide=contribs&include_all_commits=true"style="height: 150px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmullerwk&theme=shades-of-purple&locale=pt-br&layout=compact" style="height: 150px;">
+</div>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanmullerwk&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanmullerwk&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 
 ## 😯Sobre Mim
 
