@@ -1,4 +1,4 @@
-# Hey, Sup? Yan aqui :) <br/> *Desenvolvedor Full-stack*
+# Hey, Sup? Yan here :) <br/> *Desenvolvedor Full-stack*
 
 <div style="height: 200px;">
     <img src="https://github-readme-stats.vercel.app/api?username=yanmullerwk&show_icons=true&theme=shades-of-purple&locale=pt-br&hide=contribs&include_all_commits=true"style="height: 150px;">
