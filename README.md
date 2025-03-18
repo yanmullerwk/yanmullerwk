@@ -9,7 +9,7 @@
 ## About me
 
 - 🧐 My name is Yan and Im currently studying System Analysis and Development at UNISINOS
-- 💿currently interning as data analysis intern at SSP/RS
+- 💿data analysis intern at SSP/RS
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,html,css,mysql,postgres)](https://skillicons.dev)
