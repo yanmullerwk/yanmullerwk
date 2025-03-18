@@ -1,7 +1,7 @@
 # Hi, my name is Yan
 <div style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yanmullerwk&show_icons=true&theme=shades-of-purple&locale=pt-br&hide=contribs&include_all_commits=true&bg_color=00000000"style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmullerwk&theme=shades-of-purple&locale=pt-br&layout=donut&bg_color=00000000" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yanmullerwk&show_icons=true&theme=vue-dark&locale=pt-br&hide=contribs&include_all_commits=true&bg_color=00000000"style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmullerwk&theme=vue-dark&locale=pt-br&layout=donut&bg_color=00000000" style="height: 200px;">
 </div>
 
  
