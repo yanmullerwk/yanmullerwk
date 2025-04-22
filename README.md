@@ -8,7 +8,7 @@
 </div>
 
 ## 📃Languages and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,ts,js,nodejs,html,css,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,java,spring,py,ts,js,html,css,nodejs)](https://skillicons.dev)
 
 <br/>
 
