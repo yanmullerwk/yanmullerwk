@@ -1,7 +1,7 @@
 # Hi, I'm Yan Müller
 - currently studying System Analysis and Development at UNISINOS
 - data analyst intern at SSP/RS
- 
+- Intersted in learning data analysis, development and UX/UI
 <div style="height: 200px;">
     <img src="https://github-readme-stats.vercel.app/api?username=yanmullerwk&show_icons=true&rank_icon=github&theme=prussian&locale=pt-br&hide=contribs&include_all_commits=true&bg_color=00000000"style="height: 150px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmullerwk&theme=prussian&locale=pt-br&layout=donut&bg_color=00000000" style="height: 150px;">
