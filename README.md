@@ -2,7 +2,7 @@
 <ul>
     <li>currently studying System Analysis and Development at UNISINOS</li>
     <li>data analyst intern at SSP/RS</li>
-    <li>Intersted in learning data analysis, development and UX/UI</li>
+    <li>Intersted in learning web developent, Data&AI and UX/UI</li>
 </ul>
 <br/>
 <div style="height: 200px;">
