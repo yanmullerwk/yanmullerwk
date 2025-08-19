@@ -1,8 +1,9 @@
 <h1>Hi, I'm Yan Müller</h1>
 <ul>
-    <li>currently studying System Analysis and Development at UNISINOS</li>
+    <li>currently studying System Analysis and Development at Intituto Federal do Rio Grande do Sul - IFSul</li>
     <li>data analyst intern at SSP/RS</li>
     <li>Intersted in learning web developent, Data&AI and UX/UI</li>
+    <li>Geração Caldeira 2025 Student</li>
 </ul>
 <br/>
 <div style="height: 200px;">
