@@ -1,5 +1,5 @@
 <p align="center">
-    ![Texto alternativo](/assets/Inserir um título.png)
+    <img src="/assets/Inserir%20um%20título.png" alt="Texto alternativo" />
 </p>
 <h1>Hi, I'm Yan Müller</h1>
 <ul>
