@@ -1,3 +1,6 @@
+<p align="center">
+    ![Texto alternativo](assets/Inserir um título.png)
+</p>
 <h1>Hi, I'm Yan Müller</h1>
 <ul>
     <li>Geração Caldeira 2025 Student🚀🔥</li>
