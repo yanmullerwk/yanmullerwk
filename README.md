@@ -3,7 +3,7 @@
 <ul>
     <li>Geração Caldeira 2025 Student🚀🔥</li>
     <li>Currently studying System Analysis and Development at Intituto Federal do Rio Grande do Sul - IFSul💚</li>
-    <li>Intersted in learning web developent, Data&AI and UX/UI</li>
+    <li>Interested in learning web developent, Data&AI and UX/UI</li>
 </ul>
 <br/>
 <div style="height: 200px;">
