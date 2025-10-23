@@ -15,10 +15,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,mysql,java,spring,html,css,nodejs)](https://skillicons.dev)
 
-<h2>future projects</h2>
-<a href= "https://github.com/yanmullerwk/My-journey">Meu restart</a>
-<br/>
-
 <h2>social media:</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yanm.jpg)
