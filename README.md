@@ -13,7 +13,7 @@
 
 <h2>📃Languages and Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,java,spring,ts,js,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,mysql,java,spring,html,css,nodejs)](https://skillicons.dev)
 
 <h2>future projects</h2>
 <a href= "https://github.com/yanmullerwk/My-journey">Meu restart</a>
